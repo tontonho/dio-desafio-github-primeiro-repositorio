@@ -1,0 +1,13 @@
+  Neste desafio de projeto tem como objetivo a criação do meu 
+primairo repositório na nuven.
+  É de suma importancia o curso de introdução oa Git e ao GitHub,
+porque nele aprenderemos os comandos para se trabalhar com o terminal
+do Git Besh.
+  Para clonar o repositório do GitHub para meu PC foi atraves da chave 
+SSH, uma das novas atualizações de segurança de conecção com o servidor
+do GitHub.
+  Não foi facil, mas com muita persistenci aprendi a usar os comandos do
+terminal do Git Besh e como podemos ver atraves desta anotação obtive 
+exito na criação do meu repositório no GitHub. 
+
+ 
